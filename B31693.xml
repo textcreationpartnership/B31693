@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation of love to all the tender hearted, who follow the lamb wheresoever he leadeth them</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31693</idno>
+            <idno type="STC">Wing W1752</idno>
+            <idno type="EEBO-CITATION">99833728</idno>
+            <idno type="PROQUEST">99833728</idno>
+            <idno type="VID">207919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2221:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation of love to all the tender hearted, who follow the lamb wheresoever he leadeth them</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Dorothy White.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Swarthmore College Library, Pennsylvania.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb n="1" facs="tcp:207919:1" rendition="simple:additions"/>
+            <head>A <hi>Salutation of Love</hi> to all the Tender Hearted, who follow the <hi>Lamb</hi> whereſoever he Leadeth them.</head>
+            <p>WE may truly ſay, that God is good to <hi>Iſrael;</hi> to that <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> who are of a clean Heart, whoſe Hearts are cleanſed and waſhed, whoſe Conſcience is ſprinkled with pure Wa<g ref="char:EOLhyphen"/>ter; ſuch are come to the Blood of Sprinkling, and to know the Blood of the <hi>New-Covenant</hi> to purge their Conſciences from Dead Works, and to cleanſe them from all Filthineſs both of <hi>Fleſh</hi> and <hi>Spirit;</hi> ſuch come to know they are made clean by the Word, and their Hearts cleanſed by the Word, the ſincere Word, by which they are nouriſhed, and are dayly ſucking of the Milk thereof, by which they grow ſincere unto God; ſuch feel their dayly and hourly Refreſh<g ref="char:EOLhyphen"/>ments from him, they cannot live without him, and ſuch feel their ſtrength renewed by the Renewings of the <hi>Holy Ghoſt,</hi> and they can ſay the time of Refreſhing is come, and that the time of Spring is come, and that the Well ſprings up of Life in them; theſe are true Belie<g ref="char:EOLhyphen"/>vers, who witneſs the Promiſe of Chriſt fulfilled in them; <hi>Whoſoever believeth in me, out of his Belly ſhall flow Rivers of Living Water, and whoſoever drinks thereof, ſhall never thirſt again: And whoſoever ſhall eat of the Bread that I ſhall give</hi> (ſaith Chriſt) <hi>ſhall never hunger more:</hi> he that giveth liberally, and upbradeth no Man; if any Man wants Wiſdom, let him ask of him, let him ask of the Lord, for a wiſer than <hi>Solomon</hi> is here, a greater than <hi>Moſes,</hi> the Wonderful Counſellor, the Prince of Paradice, the King of Eternal Glory, who is ſhining forth in his Beauty, in the Beauty of Holineſs; he is called the Bright and Morning Star, the Day-Star, the Son of Righteouſneſs, he is aſcend<g ref="char:EOLhyphen"/>ing in his Glory, and coming with the ſound of a Trumpet: <hi>And he that hath an Ear to hear, let him hear what the Spirit and the Bride ſaith to the Churches:</hi> And all the Children of the true <hi>Bridgroom,</hi> they come to hear his Voice within them; which gives them a ce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain evidence and a more ſure Teſtimony than any man can giv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which will be every ones Eternal Peace when he ſhall ſay unto them, <hi>Well done thou good and faithful Servant, enter thou into the Joy of thy Lord.</hi> So eve<g ref="char:EOLhyphen"/>ry
+<pb n="2" facs="tcp:207919:2"/>one muſt eye his Lord, and be faithful to what he is intruſted; no ſurer Evidence than that which every one doth feel; beſides, we have a clear Teſtimony, the Anointing unto which we are directed, the Holy Unction, unto which we are to keep, and not to go forth from it, to have our Evidence in any thing without, but to have our Witneſs and Seal within, Sealed by the Spirit of Promiſe unto the Day of Re<g ref="char:EOLhyphen"/>demption; for he that ſhall come, will come, and will not tarry, and he will reward the Faithful with an everlaſting Reward; it will be no Matter to them what the Unfaithful ſhall ſay, when the Joy of the Faith<g ref="char:EOLhyphen"/>ful ſhall be full, and when their Cup ſhall overflow, and bleſſed are all ſuch wiſe Virgins, who feel the Oyl of Joy and Gladneſs in them, theſe have Oyl in their Lamps, they feel it, and feed upon it, and their Lamps ſhall never go out, but their Lights ſhall burn continually more and more until the coming of the Bridegroom in them; theſe have already met with him whom their Souls love; theſe went not out in vain, nor to ſee a Reed ſhaken with the Wind; but what have they ſeen? A Prophet: yea, I ſay unto you, and more than a Prophet, a greater than <hi>John,</hi> a wiſer than <hi>Solomon,</hi> he that fulfilleth all the Pro<g ref="char:EOLhyphen"/>phets, he that fulfilleth all Righteouſneſs; ſo theſe Virgins that fol<g ref="char:EOLhyphen"/>low him whereſoever he leadeth them, theſe feel their Lights and their Lamps burn, the burning and ſhining Light in them, the <hi>Refiner</hi> as by Fire in them to refine and burn up all Corruption in them; theſe can dwell with everlaſting burning, and abide with devouring fire, be<g ref="char:EOLhyphen"/>cauſe they love his Judgments, who are feeling of the Judgment of God to purifie them; and he that hath this Faith purifieth himſelf, thorow which I have ſtedfaſt hope in God, which hope maketh not aſhamed: ſo every one muſt feel his Hope in God, and his Faith wrought by the Power of God; for without Faith it is impoſſible to pleaſe God: ſo all that are Living Members of Chriſt's Body have a Living Faith in them, which purifieth them, and maketh them like his Glorious Body; theſe know an Inward Work day by day wrought in them; not what they ſee another do, ſo to practice or follow, but as they feel ſenſibly the In-ſpeakings and inward Motions and Workings of Faith work in them, to will and to do of his own good Pleaſure; for by his Word begat he us into this Living Hope and Lively Faith, which hath al<g ref="char:EOLhyphen"/>ready removed Mountains out of the way in them that believe; ſo that I can ſay, Faith is the Gift of God; and that he hath given me to believe things that are, and things that ſhall be brought to paſs, as he ſaid unto his Beloved, <hi>Come up hither, and I will ſhew thee things that ſhall ſhortly come to paſs.</hi> So bleſſed is the Eye that ſeeth, and the Ear
+<pb n="3" facs="tcp:207919:2"/>that heareth, and the Heart that underſtandet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more things that be<g ref="char:EOLhyphen"/>long to their Eternal Peace; they can ſay they feel that Peace that paſ<g ref="char:EOLhyphen"/>ſeth all underſtanding, and that Joy that flows like a River; they are filled with Admiration, admiring the great Love of God, his Care and Preſervation in preſerving them in a living, feeling, ſenſible State of their own Conditions, and helpleſsneſs without him; ſo theſe can ſay, Oh! what manner of Love is this that our Father hath beſtowed upon us, to call us his Children, and what ſhall we ſay! <hi>Oh the Height and the depth, the Length and the Breadth of the Love of God!</hi> Shall not his Works glorifie him, who hath wrought this good Work, and hath filled the Heart with Treaſure, New and Old? Such is the Trea<g ref="char:EOLhyphen"/>ſure of Wiſdom and Knowledge we have in our Earthen Veſſel; of which I am perſwaded, that Things paſt, neither that are preſent, nor Principalities nor Powers, nor Things that are to come ſhall be able to ſhake us from our Faith and Foundation which we have in Chriſt Je<g ref="char:EOLhyphen"/>ſus, who is our Lord, King, and Law-giver, High-Prieſt, and Prophet; ſo bleſſed are they that know him ſo, and that with <hi>Mary,</hi> have cho<g ref="char:EOLhyphen"/>ſen the Better Part, which ſhall never be taken from them who hold faſt that which from God they have received; theſe know their part in the firſt <hi>Reſurrection,</hi> on whom the ſecond <hi>Death</hi> ſhall have no Pow<g ref="char:EOLhyphen"/>er, theſe know Chriſt Riſen in them, their Hope of Glory, in whom is their Anchor, their Faith, he is their Foundation which ſtandeth ſure and unmoveable, theſe hold faſt Chriſt their Head, they become as <hi>Mount Zion</hi> that cannot be removed; and as the Walls are about <hi>Jeruſalem,</hi> ſo is the Arm of the Almighty round about his People, and as the Bird covers her Young, ſo is the Lord covering his tender begot<g ref="char:EOLhyphen"/>ten Ones, he hides them under the Over-ſhadowing of his Wings, and every one that dwells in the Defence of the Moſt High, ſhall abide un<g ref="char:EOLhyphen"/>der the Over-ſhadowing of the Almighty, they ſhall feel the Over<g ref="char:EOLhyphen"/>ſhadowings of his Power while the Storm is, un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il it is over, and then they ſhall ſhine forth in his Glory, who is the Begotten of God, full of Grace and Truth, he whom the Father will Glorifie with the ſame Glory he had with him before the World was: ſo he ſaith, <hi>Father, Glorifie me, that I may Glorifie thee.</hi> So it is he in his Sanctified Ones muſt ſhine in his Crucified Body, Crucified to the World, and the World to them, his Sanctified Body, his Glorified Body, that he is now Ariſen, and Ariſing with, and he is bringing his dead Men with him: <hi>With my dead Body</hi> (ſaith C<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſt) <hi>ſhall they ariſe, and be quicknea toge<g ref="char:EOLhyphen"/>ther with my dead Body, they ſhall appear dead to the World.</hi> Behold I die dayly, and the Life that I now live is by Faith in the Son of God;
+<pb n="4" facs="tcp:207919:3"/>ſo if ye are Riſen with Chriſt, ſeek thoſe things which are above; ſo bleſſed are all them who have laid up Treaſure in Heaven, durable Treaſure, where the <hi>Moths</hi> cannot corrupt, nor <hi>Thieves</hi> break through and ſteal: nothing elſe will avail, nor ſtand any one in ſtead, but that Treaſure that never waxeth old, which will be laſting Joy to them that have it, unſpeakable Joy and full of Glory, it is the Pearl of great Price, and they that dig deep, they this Pearl do find, it proves Joy and Peace, and Conſolation to the Mind, it is Treaſure which doth for ever laſt, they ſhall ſing <hi>Hallelujah</hi> when all Sorrow is paſt, it will prove a bleſſed Crown to thee when thy Soul ſhall ſing ſweet Harmony, when thou ſhalt at laſt be ſet free.</p>
+            <p>So it is to the Anointing which teacheth all Things, and ſheweth all Things; it ſheweth plainly of the Father, which will be the ſatisfacti<g ref="char:EOLhyphen"/>on of all who have a Living Deſire and Breathing in them, and a dayly Cry in them, <hi>Shew us the Father and it ſufficeth us.</hi> Oh! ſhew me the Place where thou cauſeſt thy Flocks to reſt at Noon, where they feed of the green Paſture, and drink of the Rivers of his Pleaſures; and theſe ſay, Oh! give us evermore of this Bread, and this Wine, which is the Fruit of the Heavenly Vine, which the Upright eat and drink every day new in the Fathers Kingdom; the Kingdom of God being come in them in Power and great Glory, theſe have found the Anointed One of God, whom their Souls have ſought ſorrowing, and he hath led them home, he that is the Anointing, and the Anointed One of God, he which ſheweth all Things, and teacheth all Things, he that ſaith, <hi>I will hereafter ſpeak more plainly unto you:</hi> That is, to his <hi>Diſciples,</hi> but not unto the <hi>World;</hi> lo now thou ſpeakeſt plainly; ſo the Inſpeakings and the Anointing, the Holy Unction which ye have received of the Father, which is the Spirit of Truth, the Comforter of which Chriſt ſpake un<g ref="char:EOLhyphen"/>to them, <hi>I will ſend you the Comforter: Another Comforter I will ſend unto you, the Spirit of Truth, and he ſhall lead you into all Truth.</hi> So un<g ref="char:EOLhyphen"/>to the Leadings and direct Guidings of the Anointed One of God, who is appointed of the Father for a Teacher, a Director, and a Guide, which every one muſt follow the Lord fully who enters the Good Land, and not Man, who can fetch you Chapter and Verſe without the Spirit; but little Children, keep you to the Anointing, which is able to make you ſtrong, by which you will overcome, and know the Word of God to abide in you, the more ſure Word, unto which you do well if you take good heed, eſpecially in theſe Days, which are Peril<g ref="char:EOLhyphen"/>lous and Trying.</p>
+            <pb n="5" facs="tcp:207919:3"/>
+            <p> For this is ſent unto <hi>Abraham's</hi> Seed, a Salutation unto that Seed which is bleſſed in <hi>Iſaac,</hi> unto whom was the Covenant and Promiſe throughout all Generations, according to his Sayings, who ſaith, <hi>In thy Seed ſhall all Nations be bleſſed.</hi> Which is the Seed of the <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> and Heir of the <hi>Promiſe;</hi> which <hi>Promiſe</hi> is not unto Seeds, as ma<g ref="char:EOLhyphen"/>ny, but to the one Seed, which is the Seed of the Word; and he ſaith unto them, <hi>In bleſſing I will bleſs thee, in multiplying I will multiply thee.</hi> With Mercies and Loving Kindneſs the Lord fills his own Seed and Begotten Ones, who are begotten by his Eternal Word, theſe he fills, his Hungry with good things, and the Rich and the Full he ſends emp<g ref="char:EOLhyphen"/>ty away: So theſe can ſay, <hi>God is good to Iſrael:</hi> unto ſuch as are of a pure Heart; <hi>Bleſſed are the Pure in Heart, they ſhall ſee God:</hi> They ſhall ſee him as he is, and behold his Glory to ſhine in them: theſe are they of a clean Heart, and he hath renewed in them a holy right Spirit, theſe are on their Watch-Tower, watching over their own Hearts and Minds, Tongues and Lips, theſe are keeping God's Vineyard clean againſt the Lord cometh, and that Servant at ſo doing, ſhall re<g ref="char:EOLhyphen"/>ceive his Reward, the Reward that follows the clean Hands and a pure Heart, the Reward that follows all the Faithful, who ſhall receive in this Life a hundred Fold, and in that which is to come everlaſting Life, and the Saying of the Lord unto them will be, <hi>Well done thou good and faithful Servant, thou haſt been faithful to a little and few things, therefore I will make thee Ruler over many things, enter thou into the Joy of thy Lord.</hi> But there will be a Rebuke unto the Unfaithful, who have not been faithful to the Day of ſmall things, who have let ſlip their Iniquities as ſmall ones, until they become great Mountains, which Mountains have hedged up their way, theſe have gone without Judgment, they ſhould have keept Judgment on the head of the Tranſ<g ref="char:EOLhyphen"/>greſſor, and have known Judgment laid to the Line, and Righteouſ<g ref="char:EOLhyphen"/>neſs to the Plummet, until Judgment is brought forth to Victory; and this was the Saints Victory, by their Faith they overcame the World &amp; the Luſts thereof, the Fleſh and the Devil: So without Faith there is none ſhall be able to conquer and over come their own Corruptions, but they muſt know the good Fight of Faith in them againſt the Prince of this World, who hath Ruled in the Hearts of the Children of Rebelli<g ref="char:EOLhyphen"/>on, who have rebelled againſt the Light, as ſaith <hi>Job;</hi> ſuch are they as rebel againſt the Light, and this is the Condemnation of the Rebellious, that Light is come, and it will be for ever their Condemna<g ref="char:EOLhyphen"/>tion who rebel againſt the Light, it will prove ſuch a Worm in their Conſcience, that will never die, and ſuch Flames of Fire that will never
+<pb n="6" facs="tcp:207919:4"/>goout; therefore let all dread and tremble who make a Profeſſion this day, and are found in Rebellion againſt the Lord, it will be your Con<g ref="char:EOLhyphen"/>demnation, alſo that Light is come, who profeſs it and walk in Un<g ref="char:EOLhyphen"/>cleanneſs; a Day alſo is overtaking you, and a Whirlwind of the Lord is ariſing to blow up more high and more terrible, which will blow ſuch Chaffnway, that the pure Wheat may be ſeen, and the Precious Seed ſeparated from the Unclean; and he ſaid, <hi>Didſt thou not ſow good Seed in the Field? Then from whence ſprang theſe Tares?</hi> He anſwers, <hi>While the Good Man of the Houſe ſlept, the Enemy came and ſowed his Tares by Night; but I will ſend forth my Angels, the Reapers, and they ſhall ſeparate and gather the Wheat from the Tares; he ſhall gather the Wheat into his Garner, and he ſhall take the Tares and bind them in Bundles, and caſt them into <g ref="char:V">Ʋ</g>nquenchable Fire.</hi> And the Day of Sepa<g ref="char:EOLhyphen"/>ration is coming, and the Righteous Seed groans for it, and their Cry is, <hi>How long, Lord? Hasten and come quickly: How long, Lord? Holy and True art thou.</hi> Come and bind up thy Jewels in the Bond of Love and Truth, in the Bond of Peace, Joy, and Humility, where they may ſing with one Harmony, ſaying, <hi>My Beloved is mine, and I am his, and he is the chiefest of ten thouſand, he is altogether Lovely.</hi> And what beloved <hi>Dalilah</hi> is there left behind that ſhall make a Separation? The Lord will ſearch through the whole Houſe of <hi>Iſrael,</hi> he will not leave a hoof behind, <hi>What means the bleating of the Sheep, and the lowing of the Oxen in mine Ears?</hi> (ſaith the Lord) What is it that is ſaved a<g ref="char:EOLhyphen"/>live, bring it to the Sword, bring it to the Fire, let it be tried by the Fire, let the Judgment of the Lord paſs over it, that Spiritual <hi>Phara<g ref="char:EOLhyphen"/>oh's</hi> Bondage may be broken, which holdeth <hi>Iſrael</hi> in Captivity, that the Seed cannot go free; every one in particular muſt feel the Judg<g ref="char:EOLhyphen"/>ments of the Lord upon Spiritual <hi>Pharaoh,</hi> before the Seed of the Houſe of <hi>Iſrael</hi> can go free, the Bond-Woman and her Son <hi>Iſhmael</hi> muſt be put out, the Scoffer at the true Woman and her Seed; the Birth that is born of the Fleſh, and of the Fleſhly Bond-Woman, muſtbe put out from <hi>Abraham</hi>'s Seed; <hi>Iſaac</hi> only, the true Seed, in whom is the <hi>Bleſ<g ref="char:EOLhyphen"/>ſing</hi> and <hi>Promiſe,</hi> it is the Election that obtains the Everlaſting Inheri<g ref="char:EOLhyphen"/>tance which is given to the Elected Seed.</p>
+            <p>And now my Beloved Friends, you that are born again of this holy right Seed, the Seed which cannot ſin, becauſe in it dwells no ſin; ſo the Seed having Purity in it ſelf; ſo every Seed bringeth forth Fruit ac<g ref="char:EOLhyphen"/>cording to its kind, it being born of the Divine Nature, and being be<g ref="char:EOLhyphen"/>gotten of the Holy Word, by the Word of his Holineſs; theſe are not born of Fleſh nor Blood, but of the Spirit, of the Word of Life which
+<pb n="7" facs="tcp:207919:4"/>liveth in them; ſo they come to ſay, <hi>The Lord Liveth:</hi> And becauſe he Liveth, they live alſo; and then it is no more I, but Chriſt Liveth in me; he is the holy Seed of Promiſe, born of the Pure Virgin-Birth, Overſhadowed by the Holy-Ghoſt; theſe come to know the Over<g ref="char:EOLhyphen"/>ſhadowings of the Glory of God, and behold its ſhining in the Face of Jeſus Chriſt, who is formed in them, and is full of Grace and Truth, he brings with him everlaſting Righteouſneſs, and fulfilleth all Righ<g ref="char:EOLhyphen"/>teouſneſs; ſo, <hi>Bleſſed are the Poor in Spirit, for theirs is the Kingdom of God:</hi> It is the Poor that receive the Goſpel; <hi>Bleſſed are the Pure in Heart, for they ſhall ſee God:</hi> and, <hi>Without Holineſs none ſhall ſee God; for Holineſs becometh God's Houſe for ever.</hi> And ye are called with a high and a holy Calling; and many are called, but few are chozen; ſo bleſſed are they that are called and chozen, who are faithful and true; for though the Seed of <hi>Iſrael</hi> in number, are as the Sand of the Sea, it will be but a little Remnant of them ſhall be. Saved, even thoſe that are found with their Names written in the Book of Life, they that can read within, their Witneſs and Seal in them who have the White-Stone, and in it the new Name which none knows but he that enjoys the ſame; it is the hidden Life, hidden with Chriſt in God; bleſſed are they that feel and enjoy the ſame; without this all Profeſſion will be in vain; it will not be a Profeſſion of <hi>Zion,</hi> and have a Life in <hi>Sodom</hi>-Sin; and to talk of <hi>Jeruſalem,</hi> and live in <hi>Aegypts</hi> Pride; a day of Searching is at Hand, <hi>Gold</hi> ſhall be known from <hi>Droſs</hi> and <hi>Reprobate Silver,</hi> but let the Upright hide in the Rock until the Lord's Indigna<g ref="char:EOLhyphen"/>tion is over; <hi>Therefore ſay to the Righteous, it ſhall go well with them, their Peace ſhall he as a River: he that his Mind is ſtaid upon me I will keep in perfect Peace,</hi> ſaith the Lord. So the Bleſſing of Peace reſts and remains upon the Upright in Heart for ever.</p>
+            <closer>
+               <signed>Dorothy White.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:207919:5"/>
+            <head>A POST-SCRIPT.</head>
+            <p>I Am God unchangeable, therefore ye Sons of <hi>Jacob</hi> and Seed of <hi>Abraham</hi> are not conſumed at this Day: Therefore in that Seed which the greateſt Fire and Fiery Tryal could not conſume nor burn up, nor the Righteous Garments could not be ſinged, when the Furnace was heat ſeven times hotter than it was before, it could not conſume the Faithful who believed, therefore they could not bow; but the Faithful will rejoyce both in the Fire and in the Water, becauſe the Lord is with them, and ſuch as have known the Flames and Con<g ref="char:EOLhyphen"/>ſumption of God, and have paſſed through the F<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y Conflicts, who have felt the Arm of God to bear them up, that they ſunk not, their Faith failed not; he ſaith, <hi>I will be with thee in the Fire, and when thou paſſest through the Water;</hi> though they are very high, yet ſaith Chriſt, <hi>I have Prayed for thee, that thy Faith fail not.</hi> So it is he that hold<g ref="char:EOLhyphen"/>eth out his hand, and helpeth up above the Doubting, he that help is laid upon, who is mighty and greater than all Prophets, ſpeaking to me, becauſe he ſpeaketh Peace and Joy to my Soul, and every one muſt ſeel him and hear him to ſpeak Peace and Joy to their Souls, he that no man ever ſpoke like him: this will be thy ſatisfaction when thou heareſt him thy ſelf; Therefore hear what the Spirit ſaith, and the Bride; hear what the Angel of God ſaith, and let him be thy Guide.
+<q>
+                  <l>His words are Sweeter than the Honey and the Honey-Comb,</l>
+                  <l>Hear him only, and cleave to him alone;</l>
+                  <l>It is ſweet Honey drops out of the Rock;</l>
+                  <l>Oh they feed thereon, who are the Shepherd's Flock:</l>
+                  <l>They do hear the Spirit, they do hear the Bride;</l>
+                  <l>They do feel the Comforter, he is now their Guide:</l>
+                  <l>They feed on Paſture that is ſo green,</l>
+                  <l>They do drink at the Living Fountain Stream;</l>
+                  <l>They drink of Waters flowing from <hi>Jacob's</hi> Well;</l>
+                  <l>I Salute the Innocent, and bid them all Farewel.</l>
+               </q>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
